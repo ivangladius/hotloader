@@ -13,6 +13,6 @@ int sub(int x, int y) {
 
 
 void run() {
-  printf("%d\n", add(4, 20));
+  printf("%d\n", add(4, -2));
 }
 
