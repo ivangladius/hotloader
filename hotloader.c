@@ -13,7 +13,7 @@ int sub(int x, int y) {
 
 
 void run() {
-  printf("hello");
+  printf("hello\n");
   
 }
 
